@@ -1,9 +1,9 @@
 Electrical Club Website
-The main objective for building this website to make some manual work automatic like New Member Registration form.
+The main objective for building this website is to make some manual work automatic like the New Member Registration form.
 
-I would like to madke a website where anyone can 
+I would like to make a website where anyone can 
 
-1. Fill   'New Member Registration' form and submit it
+1. Fill   'The New Member Registration form and submit it.
 
 2. Anyone can type and download the latter, application, proposal, notice, or Agenda type of latter into pdf format and print it directly inside the Club latter pad template. (This makes the work of the secretary as well as other members inside the club to type notice letters agenda like letters now without too much problem in making templates again and again in MS word making print setting font style margin and such things ) this will help new secretary very much.
 
