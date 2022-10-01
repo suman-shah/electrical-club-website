@@ -1,4 +1,4 @@
-welcome to the open source project for Website Building
+welcome to the open source project for learning with a Website Building concept
 
 Please go through the following step-by-step process to contribute to this project
 
