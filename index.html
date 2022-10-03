@@ -31,6 +31,7 @@
     </style>
     <link rel=stylesheet href=css/bootstrap.min.css>
     <link rel=stylesheet href=css/style.css>
+    <link rel=stylesheet href=css/searchbar.css>
     <link rel=stylesheet type=text/css href=css/default.css>
     <link rel=stylesheet type=text/css href=css/component.css>
     <link rel=stylesheet type=text/css href=css/animations.css>
@@ -59,6 +60,13 @@
                         <li><a href=# onclick=pageTransition(4,-1)>Register</a>
                         </li>
                         <li><a href=# onclick=pageTransition(4,-1)>Contribution</a>
+                        </li>
+                        <li class="">
+                             <i class="fa fa-search" aria-hidden="true"></i>
+                             <div class="togglesearch">
+                                 <input type="text" placeholder="Type to search..."/>
+                                 <input type="button" value="Search"/>
+                             </div>
                         </li>
                     </ul>
                 </nav>
@@ -1217,3 +1225,5 @@
             <p>Your browser does not support CSS animations.</p>
         </div>
         <script src=js/main.js></script>
+        <script src=js/searchbar.js></script>
+</body>
