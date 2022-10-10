@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: orange;
+     /* width: 1200px; */
+     height: 1200px;
+     display: flex;
+     /* margin-top: 100px; */
+     text-align: center;
+     justify-content: center;
+}
+.img{
+    height: 300px;
+    width: 300px;
+   margin: 50px 50px;
+   
+}
